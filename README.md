@@ -19,5 +19,5 @@ to the delay between when the QRP Labs GPS module sends the 1PPS pulse and
 when it sends the time data message, but I can't do anything about that!
 
 Enjoy!
-John
-WA2FZW
+
+John - WA2FZW
