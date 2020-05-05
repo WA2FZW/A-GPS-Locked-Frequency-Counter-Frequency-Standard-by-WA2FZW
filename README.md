@@ -13,6 +13,11 @@ circuit board.
 A second program, "Where_MI" can be run on the same hardware and provides
 traditional GPS functionality.
 
+Version 2.9 fixes a bug that was causing the time to be over a second behind
+the actual time. The time is still a couple hundred milliseconds behind due
+to the delay between when the QRP Labs GPS module sends the 1PPS pulse and
+when it sends the time data message, but I can't do anything about that!
+
 Enjoy!
 John
 WA2FZW
