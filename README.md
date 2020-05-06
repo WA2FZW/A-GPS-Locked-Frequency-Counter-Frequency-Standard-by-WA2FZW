@@ -18,6 +18,10 @@ the actual time. The time is still a couple hundred milliseconds behind due
 to the delay between when the QRP Labs GPS module sends the 1PPS pulse and
 when it sends the time data message, but I can't do anything about that!
 
+I also added the ZIP file for the PCF8574 library as the actual library
+location (https://github.com/RobTillaart/Arduino/tree/master/libraries/PCF8574)
+doesn't seem to have the button to download a ZIP file.
+
 Enjoy!
 
 John - WA2FZW
