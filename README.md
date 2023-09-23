@@ -32,10 +32,11 @@ doesn't seem to have the button to download a ZIP file.
 
 Where_MI Version 2.1 Uploaded Sept 23, 2023
 
-    The computations for the grid square were all screwed up! It worked at my
-    home location but not some others. I re-did the computations and tested
-    the logic for a half dozen locations around the world. Seems to be fixed
-    now.
+    The computations for the grid square were all
+    screwed up! It worked at my home location but
+    not some others. I re-did the computations and
+    tested the logic for a half dozen locations
+    around the world. Seems to be fixed now.
 
 Enjoy!
 
